@@ -1,0 +1,1 @@
+wachencoin: wachencoin.c TP1.o cola.o pila.o vector_dinamico.o pago.o codigo_pago.o strutil.o usuarios.o funciones_aux.o
